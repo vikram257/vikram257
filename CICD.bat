@@ -8,8 +8,6 @@ netstat -anp
 
 systeminfo
 
-getmac     
-
 PAUSE  
                     
                     
